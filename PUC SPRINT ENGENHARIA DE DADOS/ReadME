@@ -1,1 +1,31 @@
+Engenharia de dados com as demonstrações financeiras das empresas juniores de petróleo listada na B3
 
+O projeto de aprendizado supervisionado é composto por datasets de demonstração de resultado e balanço patrimonial das das empresas registradas na CVM (Comissão de Valores Mobiliários) em 2022 e informações do mercado financeiro como número de ações em circulação e a cotação da ações no IBOVESPA. 
+
+As empresas selecionadas para análise, neste projeto, são empresas independentes de óleo e gás natural no Brasil, chamadas empresas petroleiras júniores ou "Junior Oils".
+
+As empresas juniores de petróleo no Brasil listadas na B3 desempenham um papel significativo na exploração e produção de petróleo e gás natural no país. Elas são fundamentais para o setor de energia do Brasil e desempenham um papel vital na busca de recursos energéticos para atender às necessidades do país. Quatro das principais empresas juniores de petróleo na B3 são a PetroRio, a PetroReconcavo, a 3R Petroleum e a Enauta. Cada uma delas tem suas próprias características e áreas de atuação no setor de petróleo e gás.
+
+    PetroRio: A PetroRio é uma empresa brasileira de exploração e produção de petróleo e gás natural. Ela se destaca por sua estratégia
+    de crescimento por meio da aquisição de ativos maduros, revitalizando e aumentando sua produção. A empresa tem um histórico de
+    sucesso na revitalização de campos de petróleo, contribuindo para a produção de petróleo nacional.
+
+    PetroReconcavo: A PetroReconcavo é outra empresa focada na exploração e produção de petróleo e gás no Brasil. Seu foco principal é
+    em campos terrestres maduros, com operações concentradas principalmente no Nordeste do Brasil. A empresa busca maximizar a
+    recuperação de petróleo em campos já em produção, otimizando sua eficiência.
+
+    3R Petroleum: A 3R Petroleum é conhecida por sua atuação no setor de recuperação de campos maduros de petróleo e gás. Ela se
+    concentra em adquirir campos em produção que podem ser revitalizados e operados de forma mais eficiente, prolongando a vida útil
+    desses ativos e aumentando a produção.
+
+    Enauta: A Enauta é uma empresa brasileira de exploração e produção de petróleo e gás natural, com ativos tanto em terra quanto
+    offshore. A empresa tem participação em projetos importantes, incluindo o campo de Atlanta, na Bacia de Santos, e outros ativos
+    no Nordeste do Brasil. Ela se dedica a explorar novas oportunidades de produção e desenvolvimento no setor.
+
+As "Junior Oils" operam hoje em mais de 180 campos de exploração de petróleo e gás, tiveram um crescimento considerável impulsionado pela aquisição de ativos da Petrobras por meio do plano de desinvestimento inciado em 2015, ainda no Governo Dilma Rousseff. A produção em bacias terrestres, que estava em declínio desde 2012, passou aumentar substancialmente com a entrada dessas empresas, além revitalização de campos maduros de petróleo e gás natural offshore.
+
+As ações das "Junior Oils" são consideradas como "small caps"(são ações de empresas com menor capitalização de mercado em relação às empresas de maior porte listadas em uma bolsa de valores), se enquadram em categorias de menor capitalização de mercado, uma vez que são empresas em estágios iniciais de exploração e produção de petróleo e gás, e frequentemente têm recursos financeiros limitados em comparação com as grandes empresas do setor de petróleo.
+
+Através da análise fundamentalista, muito utilizada por investidores e analistas financeiros para avaliar o valor intrínseco de um ativo financeiro, como ações, títulos, moedas e commodities. baseando-se na análise de informações financeiras das "Junior Oils" com o objetivo de determinar se ele está subvalorizado ou supervalorizado no mercado.
+
+A utilização da plataforma do Azure Databricks para desempenhar como um pipeline de dados através do Microsoft Azure, fornecendo capacidades de processamento de dados, desenvolvimento de código, integração com serviços de armazenamento e segurança de dados em escala na nuvem
